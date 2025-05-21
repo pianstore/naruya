@@ -1,0 +1,51 @@
+{
+  "name": "Aether-Zero",
+  "version": "3.4",
+  "description": "Copyright © 2024 - 2025 Naruya Izumi",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib",
+    "plugins": "plugins"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "Naruya-Izumi"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^0.14.1",
+    "acorn": "^8.14.1",
+    "aki-api": "^7.0.1",
+    "awesome-phonenumber": "^7.5.0",
+    "baileys": "npm:naruyaizumi",
+    "canvafy": "^7.2.1",
+    "canvas": "^3.1.0",
+    "chalk": "^5.4.1",
+    "cheerio": "^1.0.0",
+    "chess.js": "^1.2.0",
+    "emoji-unicode": "^2.0.2",
+    "file-type": "^20.5.0",
+    "ioredis": "^5.6.1",
+    "javascript-obfuscator": "^4.1.1",
+    "lowdb": "^7.0.1",
+    "mathjs": "^14.4.0",
+    "moment-timezone": "^0.5.48",
+    "mongodb": "^6.16.0",
+    "node-cron": "^4.0.5",
+    "node-webpmux": "^3.2.1",
+    "pdf-lib": "^1.17.1",
+    "pino": "^9.6.0",
+    "sharp": "^0.34.1",
+    "similarity": "^1.2.1",
+    "ssh2": "^1.16.0",
+    "syntax-error": "^1.4.0",
+    "wa-sticker-js": "^1.0.7",
+    "ws": "^8.18.2",
+    "yargs": "^17.7.2",
+    "yt-search": "^2.13.1"
+  }
+}
