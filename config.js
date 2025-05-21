@@ -39,8 +39,8 @@ global.config = {
     /*============== STAFF ==============*/
 owner: [
 ['6282291572138', '𓅯 PIAN STORE', true],
-['6282291572138', '𓅯 PIAN', true],
-['6282291572138', '𓅯 PIANNN', true]
+['6282291574138', '𓅯 PIAN', true],
+['6282291532138', '𓅯 PIANNN', true]
 ],
 newsletter: '-',
 website: 'https://linkbio.co/naruyazumi',
