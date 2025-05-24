@@ -136,9 +136,9 @@ sleep 2
 export NVM_DIR="/root/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 
-nvm install v21.0.0 > /dev/null
-nvm use 21.0.0 > /dev/null
-nvm alias default 21.0.0 > /dev/null
+nvm install v21.7.3 > /dev/null
+nvm use 21.7.3 > /dev/null
+nvm alias default 21.7.3 > /dev/null
 npm install pm2@latest -g > /dev/null
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e " \e[1;97;101m      MEMASANG BOT WHATSAPP        \e[0m"
